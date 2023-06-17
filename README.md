@@ -1,3 +1,3 @@
 # login-authentication-system-backend
 
-// check repositary
+// check repo
